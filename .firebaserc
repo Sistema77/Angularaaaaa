@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "prueba-c6b99": {
+      "hosting": {
+        "LoginAngular": [
+          "prueba-c6b99"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "prueba-c6b99"
+  }
+}
